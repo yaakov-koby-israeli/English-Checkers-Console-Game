@@ -3,6 +3,12 @@ A console-based implementation of English Checkers (Draughts), developed in C#.N
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>    
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
+    alt="csharp" 
+    width="40" 
+    height="40" 
+    title="C#" 
+ />    
 <div/>
 <br>
