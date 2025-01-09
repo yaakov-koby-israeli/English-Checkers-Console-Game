@@ -9,6 +9,13 @@ A console-based implementation of English Checkers (Draughts), developed in C#.N
     width="40" 
     height="40" 
     title="C#" 
- />    
-<div/>
+  />    
+  <img 
+    src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" 
+    alt="VisualStudio" 
+    width="40" 
+    height="40" 
+    title="Visual Studio 2022" 
+  />    
+<div/>    
 <br>
