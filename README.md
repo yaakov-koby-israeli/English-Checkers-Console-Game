@@ -18,7 +18,7 @@ A console-based implementation of English Checkers (Draughts), developed in C#.N
     title="Koby Won"
 />
 <hr>
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :###
 <div>
   <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
