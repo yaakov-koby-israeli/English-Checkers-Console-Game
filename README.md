@@ -5,20 +5,22 @@ A console-based implementation of English Checkers (Draughts), developed in C#.N
 <img 
     src="https://github.com/yaakov-koby-israeli/English-Checkers-Console-Game/blob/master/Image/Screenshot%202025-01-09%20212509.png" 
     alt="Image Description"
-    width="100" 
-    height="80"
+    width="350" 
+    height="250"
     title="Koby Made A Move"
 />
 <hr>
+
 <img 
     src="https://github.com/yaakov-koby-israeli/English-Checkers-Console-Game/blob/master/Image/Screenshot%202025-01-09%20212806.png" 
     alt="Image Description"
-    width="100" 
-    height="80" 
+    width="350" 
+    height="250" 
     title="Koby Won"
 />
 <hr>
-### :hammer_and_wrench: Languages and Tools :###
+
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
