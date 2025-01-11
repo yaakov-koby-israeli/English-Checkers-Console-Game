@@ -5,7 +5,7 @@ A console-based implementation of English Checkers (Draughts), developed in C#.N
 <hr>
 
 <div>
-    The player makes his move by the format: ROWcol>ROWcol (for example in the picture below: Dc>Fa).<br><br>
+   <br> The player makes his move by the format: ROWcol>ROWcol (for example in the picture below: Dc>Fa).<br>
 <img 
     src="https://github.com/yaakov-koby-israeli/English-Checkers-Console-Game/blob/master/Image/Screenshot%202025-01-09%20212509.png" 
     alt="Image Description"
